@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Anything related to Data Science.**
 
-- 📫 How to reach me **https://www.linkedin.com/in/archit-sharma-8329a6172/**
+- 📫 How to reach me **architmanoj19072000@gmail.com**
 
 - ⚡ Fun fact **Progressing towards my goal by each passing day.**
 
