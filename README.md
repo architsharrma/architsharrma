@@ -23,13 +23,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/archit-sharma-8329a6172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/archit-sharma-8329a6172/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/dataarchitsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/dataarchitsharma" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/architsharma19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/architsharma19/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/cyyber123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/cyyber123" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/archit192000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/archit192000" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/architmanoj19072000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="https://codeforces.com/profile/architmanoj19072000" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@archit192000#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="https://www.hackerearth.com/@archit192000#" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/archit-sharma-8329a6172/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="archit-sharma-8329a6172" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/dataarchitsharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dataarchitsharma" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/architsharma19/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="architsharma19" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/cyyber123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="cyyber123" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/archit192000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="archit192000" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/architmanoj19072000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt=architmanoj19072000" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@archit192000#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@archit192000#" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
