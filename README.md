@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Archit Sharma</h1>
 <h3 align="center">A passionate Data Scientist and a Programmer from India</h3>
+
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/3o6Ygfw40tlnPhX87m/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architsharrma&label=Profile%20views&color=0e75b6&style=flat" alt="architsharrma" /> </p>
 
@@ -16,6 +19,8 @@
 - 💬 Ask me about **Anything related to Data Science.**
 
 - 📫 How to reach me **architmanoj19072000@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1weizxh_F0JclY6jrRgw9m10-z2YHmADC/view?usp=sharing](https://drive.google.com/file/d/1weizxh_F0JclY6jrRgw9m10-z2YHmADC/view?usp=sharing)
 
 - ⚡ Fun fact **Progressing towards my goal by each passing day.**
 
