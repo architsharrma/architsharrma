@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **architmanoj19072000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1weizxh_F0JclY6jrRgw9m10-z2YHmADC/view?usp=sharing](https://drive.google.com/file/d/1weizxh_F0JclY6jrRgw9m10-z2YHmADC/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18suxk8HgRVoCMkEdY7roFlUqmiI-Y-M4/view?usp=sharing)
 
 - ⚡ Fun fact **Progressing towards my goal by each passing day.**
 
