@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects and problem solving on HackerRank**
 
-- 🌱 I’m currently learning **Data Science, Machine Learning**
+- 🌱 I’m currently working in **Data Science and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Data Science Community**
 
